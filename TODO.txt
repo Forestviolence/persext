@@ -1,0 +1,22 @@
+TODO:
+WRITE THE PAPER
+hotkeys
+log in
+image saving / migth work atm
+
+Be able to move buttons and containers around in the sidebar
+
+
+add buttons/ needs some sort of showing the image on the button.
+HAS DONE:
+
+logout for youtube, facebook, reddit, fronter, some other google sites
+
+recentlog
+domain log
+
+add buttons /
+
+remove buttons / somewhat, needs fixing since it can break a lot of the page
+
+notes for domain / migth want to change this to each  site.

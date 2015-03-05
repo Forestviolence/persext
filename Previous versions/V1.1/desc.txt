@@ -1,0 +1,9 @@
+remove buttons works somewhat, add buttons works but has bugs
+
+logout button works fine as far as i know 
+
+storage not tested fully.
+
+sidebar is a div overlapping the main webpage
+
+content script has full access to the document.

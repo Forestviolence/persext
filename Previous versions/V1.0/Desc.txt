@@ -1,0 +1,2 @@
+Resize chrome and add a second webpageon the left.
+problems with accessing the main webpage from the extended webpage.

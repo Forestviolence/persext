@@ -1,0 +1,10 @@
+h1 {
+	color: black;
+	text-align: center;
+}
+
+a {
+	background: #ddd; 
+	color: black; 
+	border: 2px outset #555;
+}

@@ -1,0 +1,8 @@
+TODO:
+
+hotkeys
+log in
+
+HAS DONE:
+
+logout for youtube, facebook, reddit, fronter, some other google sites

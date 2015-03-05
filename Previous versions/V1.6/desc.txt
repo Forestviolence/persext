@@ -1,0 +1,2 @@
+fixed some errors in the domian log, where it would not show in the sidebar,
+the fix was that the list comes back from the extension as a lit of json objects, not a json object of a list, such as the recent log does.

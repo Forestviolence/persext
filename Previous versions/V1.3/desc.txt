@@ -1,0 +1,4 @@
+links save across a domain, buttons still added and is not stylized
+made a style function.
+button header and links have their own style
+next version: start to make a log over recent pages visited.

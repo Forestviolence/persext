@@ -1,0 +1,2 @@
+started on making buttons look fancy
+starting to make links save across a domain
